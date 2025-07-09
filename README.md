@@ -46,7 +46,7 @@ Electricity Management System is a Java-based application designed to streamline
 │ ├── 📁 java
 │ │ └── 📁 org
 │ │ └── 📁 electricitymanagement
-│ │ └── 📄 AppTest.java
+│ │ └── ☕ AppTest.java
 │
 ├── 📁 target
 │ ├── 📁 classes
