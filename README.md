@@ -26,6 +26,53 @@ Electricity Management System is a Java-based application designed to streamline
 5. After the data has been taken from the user the data is automatically stored in the database created..**(NOTE: The database should be created or else an error message is displayed)**
 6. The users can also view the data stored in the database in the output window.
 
+## 📁 Project Structure
+```
+📁 electricity-management
+│
+├── 📁 src
+│   ├── 📁 main
+│   │   ├── 📁 java
+│   │   │   ├── 📁 org
+│   │   │   │    ├── 📁 electricitymanagement
+│   │   │   │    │   ├── 📁 DatabaseGuide
+│   │   │   │    │   ├── ☕ Bill.java
+│   │   │   │    │   ├── ☕ Customer.java
+│   │   │   │    │   ├── ☕ DB.java
+│   │   │   │    │   ├── ☕ DBView.java
+│   │   │   │    │   ├── ☕ Main.java
+│   │   │   │    │   ├── ☕ Payment.java
+│   ├── 📁 test
+│   │   ├── 📁 java
+│   │   ├── 📁 org
+│   │   ├── 📁 electricitymanagement
+│   │   ├── 📄 AppTest.java
+├── 📁 target
+│   ├── 📁 classes
+│   │   ├── 📁 org
+│   │   │   ├── 📁 electricitymanagement
+│   │   │   │   ├── 📁 DatabaseGuide
+│   │   │   │   ├── 📄 Bill.class
+│   │   │   │   ├── 📄 Customer.class
+│   │   │   │   ├── 📄 DB.class
+│   │   │   │   ├── 📄 DBView.class
+│   │   │   │   ├── 📄 Main.class
+│   │   │   │   ├── 📄 Payment.class
+│   ├── 📁 generated-sources
+│   │   ├── 📁 annotations
+│   ├── 📁 maven-status
+│   │   ├── 📁 maven-compiler-plugin
+│   │   │   ├── 📁 compile
+│   │   │   │   ├── 📁 default-compile
+│   │   │   │   │   ├── 📄 createdFiles.lst
+│   │   │   │   │   ├── 📄 inputFiles.lst
+│   ├── 📁 test-classes
+│   │   ├── 📁 org
+│   │   │   ├── 📁 electricitymanagement
+│   │   │   │   ├── 📄 AppTest.class
+├── 🌐 pom.xml
+
+
 ## Installation
 ```
 # Clone the repositoty
@@ -37,3 +84,9 @@ cd Java-Project-s
 # Install dependencies
 npm install
 ```
+## 🔧 Prerequisites
+
+- Java JDK 17 or later
+- MySQL or any supported relational database
+- A Java IDE (e.g., IntelliJ IDEA, Eclipse)
+
