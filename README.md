@@ -120,7 +120,7 @@ Once the project is installed and compiled, you can run the application and inte
 ## Screenshots
 
 ### Full Console Ouput
-![Console Ouput](images/Screenshot 2025-07-09 225039.png)
+![Console Ouput](https://github.com/Tanishq747Shivasharan/Java-Project-s/blob/main/images/Screenshot%202025-07-09%20225039.png)
 
 ## Prerequisites
 
