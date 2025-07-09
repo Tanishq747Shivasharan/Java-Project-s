@@ -27,11 +27,13 @@ Electricity Management System is a Java-based application designed to streamline
 6. The users can also view the data stored in the database in the output window.
 
 ## Installation
-```# Clone the repositoty
+```
+# Clone the repositoty
 git clone https://github.com/Tanishq747Shivasharan/Java-Project-s
 
 # Navigate into the directory
 cd Java-Project-s
 
 # Install dependencies
-npm install```
+npm install
+```
