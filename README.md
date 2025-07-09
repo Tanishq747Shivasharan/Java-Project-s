@@ -5,4 +5,13 @@ The Electricity Management System is a Java-based application developed to autom
 
 One of the key features of this system is its integration with a database, allowing for efficient storage and retrieval of customer records and billing history. This ensures data consistency, easy access to historical information, and better management of billing operations.
 
-Designed for utility service providers or educational purposes, the system aims to reduce manual work, minimize errors, and offer a user-friendly interface for handling electricity billing tasks.
+Designed for utility service providers or educational purposes, the system aims to reduce manual work, minimize errors, and offer a user-friendly menu-driven interface for handling electricity billing tasks.
+
+# Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#Screenshots)
+- [Configuration](#configuration)
+
