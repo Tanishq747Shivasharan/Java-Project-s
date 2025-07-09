@@ -117,7 +117,10 @@ Once the project is installed and compiled, you can run the application and inte
   java -cp target/classes org.electricitymanagement.DBView
   ```
 
+## Screenshots
 
+### Full Console Ouput
+![Console Ouput]("C:\Users\tanis\OneDrive\Pictures\Screenshots 1\Screenshot 2025-07-09 225039.png")
 
 ## Prerequisites
 
