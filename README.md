@@ -77,7 +77,7 @@ Electricity Management System is a Java-based application designed to streamline
 ```
 
 ## Installation
-```
+```markdown
 # Clone the repositoty
 git clone https://github.com/Tanishq747Shivasharan/Java-Project-s
 
@@ -87,7 +87,39 @@ cd Java-Project-s
 # Install dependencies
 npm install
 ```
-## 🔧 Prerequisites
+
+## Usage
+
+Once the project is installed and compiled, you can run the application and interact with it through the console.
+
+### Steps to Use:
+
+1. **Launch the application:**
+
+   ```bash
+   java -cp target/classes org.electricitymanagement.Main
+   ```
+
+2. **Follow on-screen prompts:**
+   - Enter customer details (Name, Meter Number, Units Consumed, etc.)
+   - The system will calculate the bill based on the input
+   - Displays payment details (amount due, taxes, etc.)
+
+3. **Database operations:**
+   - Customer and billing information is stored in the connected database
+   - You can view stored records using in-app options (via `DBView.java`)
+
+### Notes:
+
+- Make sure your database is running and properly configured in `DB.java` or `config.properties`.
+- You can view stored data using:
+  ```bash
+  java -cp target/classes org.electricitymanagement.DBView
+  ```
+
+
+
+## Prerequisites
 
 - Java JDK 17 or later
 - MySQL or any supported relational database
