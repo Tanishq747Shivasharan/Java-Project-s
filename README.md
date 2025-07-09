@@ -31,45 +31,47 @@ Electricity Management System is a Java-based application designed to streamline
 📁 electricity-management
 │
 ├── 📁 src
-│   ├── 📁 main
-│   │   ├── 📁 java
-│   │   │   ├── 📁 org
-│   │   │   │    ├── 📁 electricitymanagement
-│   │   │   │    │   ├── 📁 DatabaseGuide
-│   │   │   │    │   ├── ☕ Bill.java
-│   │   │   │    │   ├── ☕ Customer.java
-│   │   │   │    │   ├── ☕ DB.java
-│   │   │   │    │   ├── ☕ DBView.java
-│   │   │   │    │   ├── ☕ Main.java
-│   │   │   │    │   ├── ☕ Payment.java
-│   ├── 📁 test
-│   │   ├── 📁 java
-│   │   ├── 📁 org
-│   │   ├── 📁 electricitymanagement
-│   │   ├── 📄 AppTest.java
+│ ├── 📁 main
+│ │ ├── 📁 java
+│ │ │ └── 📁 org
+│ │ │ └── 📁 electricitymanagement
+│ │ │ ├── 📁 DatabaseGuide
+│ │ │ ├── ☕ Bill.java
+│ │ │ ├── ☕ Customer.java
+│ │ │ ├── ☕ DB.java
+│ │ │ ├── ☕ DBView.java
+│ │ │ ├── ☕ Main.java
+│ │ │ ├── ☕ Payment.java
+│ └── 📁 test
+│ ├── 📁 java
+│ │ └── 📁 org
+│ │ └── 📁 electricitymanagement
+│ │ └── 📄 AppTest.java
+│
 ├── 📁 target
-│   ├── 📁 classes
-│   │   ├── 📁 org
-│   │   │   ├── 📁 electricitymanagement
-│   │   │   │   ├── 📁 DatabaseGuide
-│   │   │   │   ├── 📄 Bill.class
-│   │   │   │   ├── 📄 Customer.class
-│   │   │   │   ├── 📄 DB.class
-│   │   │   │   ├── 📄 DBView.class
-│   │   │   │   ├── 📄 Main.class
-│   │   │   │   ├── 📄 Payment.class
-│   ├── 📁 generated-sources
-│   │   ├── 📁 annotations
-│   ├── 📁 maven-status
-│   │   ├── 📁 maven-compiler-plugin
-│   │   │   ├── 📁 compile
-│   │   │   │   ├── 📁 default-compile
-│   │   │   │   │   ├── 📄 createdFiles.lst
-│   │   │   │   │   ├── 📄 inputFiles.lst
-│   ├── 📁 test-classes
-│   │   ├── 📁 org
-│   │   │   ├── 📁 electricitymanagement
-│   │   │   │   ├── 📄 AppTest.class
+│ ├── 📁 classes
+│ │ └── 📁 org
+│ │ └── 📁 electricitymanagement
+│ │ ├── 📁 DatabaseGuide
+│ │ ├── 📄 Bill.class
+│ │ ├── 📄 Customer.class
+│ │ ├── 📄 DB.class
+│ │ ├── 📄 DBView.class
+│ │ ├── 📄 Main.class
+│ │ ├── 📄 Payment.class
+│ ├── 📁 generated-sources
+│ │ └── 📁 annotations
+│ ├── 📁 maven-status
+│ │ └── 📁 maven-compiler-plugin
+│ │ └── 📁 compile
+│ │ └── 📁 default-compile
+│ │ ├── 📄 createdFiles.lst
+│ │ └── 📄 inputFiles.lst
+│ └── 📁 test-classes
+│ └── 📁 org
+│ └── 📁 electricitymanagement
+│ └── 📄 AppTest.class
+│
 ├── 🌐 pom.xml
 ```
 
