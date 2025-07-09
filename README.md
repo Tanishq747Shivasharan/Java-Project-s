@@ -25,3 +25,15 @@ Electricity Management System is a Java-based application designed to streamline
 4. The **Billing system** calcuates the bill and displayes to user and, tells how many to pay to the users and based on the given bill the user is displayed with the filnal payed or not payed(due) status of **Bill payment**.
 5. After the data has been taken from the user the data is automatically stored in the database created..**(NOTE: The database should be created or else an error message is displayed)**
 6. The users can also view the data stored in the database in the output window.
+
+## Installation
+'''
+# Clone the repositoty
+git clone https://github.com/Tanishq747Shivasharan/Java-Project-s
+
+# Navigate into the directory
+cd Java-Project-s
+
+# Install dependencies
+npm install
+'''
