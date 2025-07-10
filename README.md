@@ -1,4 +1,5 @@
 # State-Board Electricity Management System.
+[![View Java File](https://img.shields.io/badge/View-JavaFile-blue?style=for-the-badge)](https://github.com/username/repo/blob/main/Main.java)
 [Java](https://www.oracle.com/java/)
 
 ## Introduction
