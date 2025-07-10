@@ -14,6 +14,7 @@ Designed for utility service providers or educational purposes, the system aims 
 - [Installation](#installation)
 - [Dependancies-Used](#Dependancies-Used)
 - [Usage](#usage)
+- [Tested in VS Code IDE](#UsedVSCode)
 - [Screenshots](#Screenshots)
 - [Prerequisites](#prerequisites)
 
@@ -136,6 +137,9 @@ Once the project is installed and compiled, you can run the application and inte
   ```bash
   java -cp target/classes org.electricitymanagement.DBView
   ```
+
+##  Tested in VS Code IDE
+![Tested in VS Code]()
 
 ## Screenshots
 
