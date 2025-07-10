@@ -1,3 +1,8 @@
+# Group members
+1. Rhoit Bansode
+2. Arya Haridas
+3. Vedant Vallal
+
 # State-Board Electricity Management System.
 [![JAVA JDK 23.0.1](https://img.shields.io/badge/Java-JDK23.0.1-blue?style=for-the-badge)](https://www.oracle.com/java/)
 [![Apache Maven 3.9.10](https://img.shields.io/badge/Apache-Maven3.9.10-orange?style=for-the-badge)](https://www.oracle.com/java/)
