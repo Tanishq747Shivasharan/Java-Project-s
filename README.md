@@ -10,7 +10,7 @@ Designed for utility service providers or educational purposes, the system aims 
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Project-Structure](#project)
+- [Project-Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#Screenshots)
@@ -27,7 +27,7 @@ Electricity Management System is a Java-based application designed to streamline
 5. After the data has been taken from the user the data is automatically stored in the database created..**(NOTE: The database should be created or else an error message is displayed)**
 6. The users can also view the data stored in the database in the output window.
 
-## Project Structure
+## Project-Structure
 ```
 📁 electricity-management
 │
