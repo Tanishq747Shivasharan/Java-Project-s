@@ -155,6 +155,6 @@ Once the project is installed and compiled, you can run the application and inte
 - Java JDK 17 or later
 - PostgreSQL or any supported relational database
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse, VS Code)
-- Apache Maven installed ![Download link](https://maven.apache.org/install.html?utm_source=chatgpt.com)
+- Apache Maven installed ![Download link](https://maven.apache.org/download.cgi)
 
 
