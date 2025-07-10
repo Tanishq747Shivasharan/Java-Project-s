@@ -10,7 +10,7 @@ Designed for utility service providers or educational purposes, the system aims 
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Project Structure](#project)
+- [Project-Structure](#project)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#Screenshots)
