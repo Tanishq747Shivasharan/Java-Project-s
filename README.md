@@ -10,11 +10,11 @@ Designed for utility service providers or educational purposes, the system aims 
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Project Structure](#projectstructure)
+- [Project Structure](#ProjectStructure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#Screenshots)
-- [Configuration](#configuration)
+- [Prerequisites](#prerequisites)
 
 ## About
 Electricity Management System is a Java-based application designed to streamline electricity billing and customer management. The system allows users to input customer details, calculate bills, and display payment information. It also includes functionality for storing user data in a database and retrieving stored records for review. This project helps automate the billing process and maintain organized records for utility service providers or simulation-based use cases.
