@@ -12,6 +12,7 @@ Designed for utility service providers or educational purposes, the system aims 
 - [Features](#features)
 - [Project-Structure](#project-structure)
 - [Installation](#installation)
+- [Dependancies-Used](#Dependancies-Used)
 - [Usage](#usage)
 - [Screenshots](#Screenshots)
 - [Prerequisites](#prerequisites)
@@ -86,6 +87,25 @@ cd Java-Project-s
 
 # Install dependencies
 npm install
+```
+
+## Dependancies-Used
+```pom.xml
+<dependencies>
+    <!-- JDBC Dependency for PostgreSQL -->
+    <dependency>
+      <groupId>org.postgresql</groupId>
+      <artifactId>postgresql</artifactId>
+      <version>42.7.3</version>
+    </dependency>
+
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.13.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
 ```
 
 ## Usage
