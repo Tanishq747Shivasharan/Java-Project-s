@@ -1,5 +1,5 @@
 # State-Board Electricity Management System.
-[![View Java File](https://img.shields.io/badge/View-JavaFile-blue?style=for-the-badge)](https://www.oracle.com/java/)
+[![JAVA JDK 23.0.1](https://img.shields.io/badge/View-JavaFile-blue?style=for-the-badge)](https://www.oracle.com/java/)
 
 ## Introduction
 The Electricity Management System is a Java-based application developed to automate and simplify the process of electricity billing and customer data management. This system enables users to input customer details, perform bill calculations based on usage, and generate payment information dynamically.
